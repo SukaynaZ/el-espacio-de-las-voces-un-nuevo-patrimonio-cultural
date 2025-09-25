@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>El espacio de las voces</title>
+    <link href="https://sukaynaz.github.io/el-espacio-de-las-voces-un-nuevo-patrimonio-cultural/feed.xml" rel="self" />
+    <link href="https://sukaynaz.github.io/el-espacio-de-las-voces-un-nuevo-patrimonio-cultural" />
+    <updated>2025-09-25T10:30:56-05:00</updated>
+    <author>
+        <name>Sukayna Zahra Herman Cuero</name>
+    </author>
+    <id>https://sukaynaz.github.io/el-espacio-de-las-voces-un-nuevo-patrimonio-cultural</id>
+
+    <entry>
+        <title>Las opiniones</title>
+        <author>
+            <name>Sukayna Zahra Herman Cuero</name>
+        </author>
+        <link href="https://sukaynaz.github.io/el-espacio-de-las-voces-un-nuevo-patrimonio-cultural/las-opiniones.html"/>
+        <id>https://sukaynaz.github.io/el-espacio-de-las-voces-un-nuevo-patrimonio-cultural/las-opiniones.html</id>
+            <category term="Resignifiquemos el espacio"/>
+
+        <updated>2025-09-25T10:30:56-05:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Una nueva estatua</title>
+        <author>
+            <name>Sukayna Zahra Herman Cuero</name>
+        </author>
+        <link href="https://sukaynaz.github.io/el-espacio-de-las-voces-un-nuevo-patrimonio-cultural/una-nueva-estatua.html"/>
+        <id>https://sukaynaz.github.io/el-espacio-de-las-voces-un-nuevo-patrimonio-cultural/una-nueva-estatua.html</id>
+            <category term="&quot;Dándole peso a unos besos&quot;"/>
+
+        <updated>2025-09-25T10:30:36-05:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>La estatua</title>
+        <author>
+            <name>Sukayna Zahra Herman Cuero</name>
+        </author>
+        <link href="https://sukaynaz.github.io/el-espacio-de-las-voces-un-nuevo-patrimonio-cultural/la-estatua.html"/>
+        <id>https://sukaynaz.github.io/el-espacio-de-las-voces-un-nuevo-patrimonio-cultural/la-estatua.html</id>
+            <category term="Se tumba la estatua"/>
+
+        <updated>2025-09-25T10:30:23-05:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>La tribu Misak</title>
+        <author>
+            <name>Sukayna Zahra Herman Cuero</name>
+        </author>
+        <link href="https://sukaynaz.github.io/el-espacio-de-las-voces-un-nuevo-patrimonio-cultural/la-tribu-misak.html"/>
+        <id>https://sukaynaz.github.io/el-espacio-de-las-voces-un-nuevo-patrimonio-cultural/la-tribu-misak.html</id>
+            <category term="La tribu Misak"/>
+
+        <updated>2025-09-25T10:30:08-05:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Gonzalo Jiménez de Quesada </title>
+        <author>
+            <name>Sukayna Zahra Herman Cuero</name>
+        </author>
+        <link href="https://sukaynaz.github.io/el-espacio-de-las-voces-un-nuevo-patrimonio-cultural/gonzalo-jimenez-de-quesada.html"/>
+        <id>https://sukaynaz.github.io/el-espacio-de-las-voces-un-nuevo-patrimonio-cultural/gonzalo-jimenez-de-quesada.html</id>
+        <media:content url="https://sukaynaz.github.io/el-espacio-de-las-voces-un-nuevo-patrimonio-cultural/media/posts/1/Gonzalo.png" medium="image" />
+            <category term="Historia de Gonzalo Jimenez de Quesada"/>
+
+        <updated>2025-09-25T10:18:46-05:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>
